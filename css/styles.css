@@ -105,8 +105,7 @@ body {
 /* Hero Section */
 .hero {
     background-color: #2e2f42;
-    padding-top: 188px;
-    padding-bottom: 188px;
+    padding: 188px 0;
 }
 .hero-title {
     font-size: 56px;
