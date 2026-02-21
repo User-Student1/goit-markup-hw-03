@@ -15,6 +15,9 @@ button {
 body {
     margin: 0;
 }
+:root {
+    --primary-brand: #4d5ae5;
+}
 /* Global Styles */
 body {
     font-family: 'Roboto', sans-serif;
@@ -123,7 +126,7 @@ body {
     letter-spacing: 0.04em;
     color: #ffffff;
     border: none;
-    background-color: #4d5ae5;
+    background-color: var(--primary-brand);
     display: block;
     margin: 0 auto;
     padding: 16px 32px;
